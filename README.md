@@ -21,7 +21,7 @@ Hi, I'm [Michael Oladele](https://github.com/micheaol/), a passionate self-taugh
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/micheaol/micheaol/blob/main/gif/code.gif?raw=true" width="500" height="320" />
   
 - :incoming_envelope: Any freelance work? Reach me on reach, [email](mailto:micheaol@gmail.com) :raising_hand_man:
 - 💬 Ask me about anything, I am happy to help;
@@ -43,7 +43,6 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
