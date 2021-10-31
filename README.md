@@ -29,7 +29,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   
   
-- :incoming_envelope: Any freelance work? Reach me on reach, [email](mailto:micheaol@gmail.com) :raising_hand_man:
+- :incoming_envelope: Any freelance work? Reach me on, [email](mailto:micheaol@gmail.com) :raising_hand_man:
 - 💬 Ask me about anything, I am happy to help;
 
 **languages and tools:**  
