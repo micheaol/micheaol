@@ -44,8 +44,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 | ------------- | ------------- |
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://github.com/micheaol/micheaol/blob/master/images/codeStats.svg" alt="Alternative Text"/>
 
 
 <br />
