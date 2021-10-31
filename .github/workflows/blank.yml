@@ -9,9 +9,9 @@ jobs:
     name: Automatically update my README  
     runs-on: ubuntu-latest
     steps:
-      - uses: tariksahni/coding-stats-wakatime@v1.0.0
+      - uses: micheaol/coding-stats-wakatime@v1.0.0
         with:
           WAKATIME_API_KEY: ${{ secrets.13d7d9bb-274a-48d3-8c81-ccbd38989dbf }}
-          SHOW_MONTHLY: true
+          SHOW_MONTHLY: false
           GITHUB_TOKEN: ${{ github.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 }}
           GITHUB_ACTION: ${{ github.action }}
