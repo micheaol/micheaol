@@ -22,7 +22,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ##
 <div>
-      <img align="right" alt="GIF" src="https://github.com/micheaol/micheaol/blob/main/gif/code.gif?raw=true" width="500" height="220" />
+      <img align="right" alt="GIF" src="https://github.com/micheaol/micheaol/blob/main/gif/code.gif?raw=true" width="450" height="220" />
   
 </div>
 
