@@ -44,7 +44,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 | ------------- | ------------- |
 
 
-<img src="https://github.com/micheaol/micheaol/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+<!-- <img src="https://github.com/micheaol/micheaol/blob/master/images/codeStats.svg" alt="Alternative Text"/> -->
 
 
 <br />
