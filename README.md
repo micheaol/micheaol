@@ -40,7 +40,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/micheaol/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=micheaol&show_icons=true&include_all_commits=true&theme=dark&hide_border=false" alt="micheaol's github stats" /></a> | <a href="https://github.com/micheaol/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheaol&layout=compact&theme=dark&hide_border=false" /></a> |
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) | <a href="https://github.com/micheaol/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheaol&layout=compact&theme=dark&hide_border=false" /></a> |
 | ------------- | ------------- |
 
 
