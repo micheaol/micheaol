@@ -14,7 +14,7 @@
 
 <br />
 
-I'm [Michael Oladele](https://github.com/micheaol/), a **Cyber Threat Intelligence (CTI) Analyst & Security Engineer** based in Nigeria, built on a strong foundation as a **Full-Stack Software Engineer** and **2+ years of Offensive Security testing**. 
+I'm [Michael Oladele](https://github.com/micheaol/), a **Cyber Threat Intelligence (CTI) Analyst & Security Engineer** based in Nigeria, built on a strong foundation as a **Full-Stack Software Engineer** and **3+ years of Offensive Security testing**. 
 
 I bridge the gap between code development and adversary tradecraft. My unique edge allows me to reverse-engineer software vulnerabilities, analyze threat actor methodologies, and write code to automate threat intelligence pipelines and detection mechanisms. I am highly passionate about open-source security tools and collaborative threat hunting.
 
