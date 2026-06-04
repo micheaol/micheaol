@@ -14,9 +14,9 @@
 
 <br />
 
-I'm [Michael Oladele](https://github.com/micheaol/), a **Cyber Threat Intelligence (CTI) Analyst & Security Engineer** based in Nigeria, built on a strong foundation as a **Full-Stack Software Engineer** and **3+ years of Offensive Security testing**. 
+I'm [Michael Oladele](https://github.com/micheaol/), an **Application Security Engineer** based in Nigeria, built on a strong foundation as a **Full-Stack Software Engineer** and **3+ years of Offensive Security testing**. 
 
-I bridge the gap between code development and adversary tradecraft. My unique edge allows me to reverse-engineer software vulnerabilities, analyze threat actor methodologies, and write code to automate threat intelligence pipelines and detection mechanisms. I am highly passionate about open-source security tools and collaborative threat hunting.
+I bridge the gap between secure code development and adversary tactics. My unique edge allows me to secure software ecosystems by performing deep vulnerability assessments, implementing secure SDLC (DevSecOps) practices, code auditing, and building automation pipelines to catch security flaws before they hit production. I am highly passionate about open-source security tools and proactive defense.
 
 ##
 
@@ -24,17 +24,17 @@ I bridge the gap between code development and adversary tradecraft. My unique ed
       <img align="right" alt="GIF" src="https://github.com/micheaol/micheaol/blob/main/gif/code.gif?raw=true" width="450" height="220" />
 </div>
 
-- 🎯 **Currently Leveling Up**: TryHackMe SOC Level 2 (Advanced Endpoint Detection, CTI, and Malware Analysis).
-- 🛠️ **Focus Areas**: Threat Modeling, Detection Engineering (YARA/Sigma), Application Security, OSINT Automation.
+- 🎯 **Currently Leveling Up**: Advanced Secure Code Review, DevSecOps CI/CD automation, and Cloud Security.
+- 🛠️ **Focus Areas**: SAST/DAST/SCA Integration, Threat Modeling, Secure Code Auditing, Web & API Penetration Testing.
 - :incoming_envelope: Let's collaborate or discuss opportunities! Reach me via [Email](mailto:micheaol80@gmail.com) 
-- 💬 Ask me about anything from web architecture to exploit behaviors and adversary tracking.
+- 💬 Ask me about anything from web architecture to OWASP Top 10 mitigation and security automation in CI/CD.
 
-**Security, Intelligence & Infrastructure:**  
-![Cyber Threat Intelligence](https://shields.io)
-![MITRE ATT&CK](https://shields.io)
-![YARA](https://shields.io)
-![AppSec](https://shields.io)
+**Application Security & DevSecOps:**  
+![OWASP](https://shields.io)
+![Threat Modeling](https://shields.io)
+![DevSecOps](https://shields.io)
 ![Burp Suite](https://shields.io)
+![Docker](https://shields.io)
 ![LINUX](http://img.shields.io/badge/-linux-5391FE?style=flat-square&logo=linux&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
@@ -45,7 +45,6 @@ I bridge the gap between code development and adversary tradecraft. My unique ed
 ![Ruby](http://img.shields.io/badge/-Ruby-3776AB?style=flat-square&logo=ruby&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![REACT](https://img.shields.io/badge/-React-CB3837?style=flat-square&logo=react)
-![REDUX](http://img.shields.io/badge/-Redux-5391FE?style=flat-square&logo=redux&logoColor=ffffff)
 
 <br/>
 
